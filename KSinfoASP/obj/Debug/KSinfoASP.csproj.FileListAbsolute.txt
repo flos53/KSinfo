@@ -1,0 +1,8 @@
+c:\users\administrateur\documents\visual studio 2012\Projects\KSinfoASP\KSinfoASP\bin\KSinfoASP.dll
+c:\users\administrateur\documents\visual studio 2012\Projects\KSinfoASP\KSinfoASP\bin\KSinfoASP.pdb
+c:\users\administrateur\documents\visual studio 2012\Projects\KSinfoASP\KSinfoASP\obj\Debug\KSinfoASP.csprojResolveAssemblyReference.cache
+c:\users\administrateur\documents\visual studio 2012\Projects\KSinfoASP\KSinfoASP\obj\Debug\KSinfoASP.dll
+c:\users\administrateur\documents\visual studio 2012\Projects\KSinfoASP\KSinfoASP\obj\Debug\KSinfoASP.pdb
+C:\wamp\www\KSinfoASP\KSinfoASP\obj\Debug\KSinfoASP.csprojResolveAssemblyReference.cache
+C:\wamp\www\KSinfoASP\KSinfoASP\obj\Debug\KSinfoASP.dll
+C:\wamp\www\KSinfoASP\KSinfoASP\obj\Debug\KSinfoASP.pdb
